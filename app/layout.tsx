@@ -24,6 +24,7 @@ function Footer() {
           <div className="flex flex-col justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://nextjs.org/docs"
+              target="_blank"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Read Next.js Documentation
@@ -33,6 +34,7 @@ function Footer() {
             This project build can be cloned from
             <a
               href={`https://github.com/web-warrior/contentfulblogdemo`}
+              target="_blank"
               className="mx-3 font-bold hover:underline"
             >
               Jenny McClaine's GitHub repo

@@ -25,7 +25,7 @@ function Intro() {
           This site was created by Jenny McClaine using {" "}
           <a
             href="https://nextjs.org/"
-            target="new"
+            target="_blank"
             className="underline hover:text-success duration-200 transition-colors"
           >
             Next.js
@@ -33,7 +33,7 @@ function Intro() {
           and{" "}
           <a
             href={CMS_URL}
-            target="new"
+            target="_blank"
             className="underline hover:text-success duration-200 transition-colors"
           >
             {CMS_NAME}
@@ -44,7 +44,7 @@ function Intro() {
           This blog is hosted on the Vercel cloud platform {" "}
           <a
             href="https://vercel.com/"
-            target="new"
+            target="_blank"
             className="underline hover:text-success duration-200 transition-colors"
           >
             Vercel Hosting
