@@ -20,7 +20,7 @@ function Intro() {
           A statically generated blog example ("statically generated blog" pages are precompiled vs. being compiled on the fly. Precompiled page load faster in the browser and should be used whenever possible for optimized performance and less server side resource overhead)
         </h2>
       </section>
-      <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
+      <section className="flex-col flex items-left md:justify-between mt-16 mb-16 md:mb-12">
         <h3>
           This site was created by Jenny McClaine using {" "}
           <a
@@ -38,16 +38,14 @@ function Intro() {
           </a>
           .
         </h3>
-      </section>
-      <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
         <h3>
-          This site is hosted on the Vercel cloud platform
+          This blog is hosted on the Vercel cloud platform {" "}
           <a
             href="https://vercel.com/"
             className="underline hover:text-success duration-200 transition-colors"
           >
             Vercel Hosting
-          </a>{" "}
+          </a>
           .
         </h3>
       </section>
