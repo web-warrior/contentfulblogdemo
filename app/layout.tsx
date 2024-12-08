@@ -32,7 +32,7 @@ function Footer() {
               href={`https://github.com/web-warrior/contentfulblogdemo`}
               className="mx-3 font-bold hover:underline"
             >
-              View on Jenny McClaine's GitHub
+              Project build can be cloned from Jenny McClaine's GitHub
             </a>
           </div>
         </div>
