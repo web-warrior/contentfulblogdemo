@@ -27,9 +27,9 @@ export default async function PostPage({
 
   return (
     <div className="container mx-auto px-5">
-      <h2 className="mb-20 mt-8 text-2xl font-bold leading-tight tracking-tight md:text-4xl md:tracking-tighter">
+      <h2 className="mb-20 mt-8 text-2xl font-bold leading-tight tracking-tight md:text-3xl md:tracking-tighter">
         <Link href="/" className="hover:underline">
-          Jenny McClaine's Contentful Blog
+          Jenny McClaine's Vercel Hosted Contentful Blog
         </Link>
         .
       </h2>
