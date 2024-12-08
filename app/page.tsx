@@ -22,7 +22,7 @@ function Intro() {
       </section>
       <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
         <h3>
-          This site was created using {" "}
+          This site was created by Jenny McClaine using {" "}
           <a
             href="https://nextjs.org/"
             className="underline hover:text-success duration-200 transition-colors"
@@ -36,6 +36,18 @@ function Intro() {
           >
             {CMS_NAME}
           </a>
+          .
+        </h3>
+      </section>
+      <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
+        <h3>
+          This site is hosted on the Vercel cloud platform
+          <a
+            href="https://vercel.com/"
+            className="underline hover:text-success duration-200 transition-colors"
+          >
+            Vercel Hosting
+          </a>{" "}
           .
         </h3>
       </section>
