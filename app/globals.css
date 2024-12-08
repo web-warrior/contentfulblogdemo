@@ -7,7 +7,7 @@
   color: white;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .md\:text-8xl {
       font-size: 3rem !important;
       line-height: 1;
