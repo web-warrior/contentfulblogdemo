@@ -17,7 +17,7 @@ function Intro() {
           Jenny McClaine's Vercel Hosted Contentful Blog Demo.
         </h1>
         <h2 className="text-left text-lg mt-5 md:pl-8">
-          This statically generated blog example site that serves "statically generated blog" pages precompiled at build time vs. compiled on the fly when a client browser makes a request for a URL. Precompiled pages load faster in the browser and should be used whenever possible for optimized performance and less server side resource overhead.
+          This statically generated blog example site serves "statically generated blog" pages precompiled at build time vs. compiled on the fly when a client browser makes a request for a URL. Precompiled pages load faster in the browser and should be used whenever possible for optimized performance and less server side resource overhead.
         </h2>
       </section>
       <section className="flex-col flex items-left md:justify-between mt-16 mb-16 md:mb-12">
@@ -25,6 +25,7 @@ function Intro() {
           This site was created by Jenny McClaine using {" "}
           <a
             href="https://nextjs.org/"
+            target="new"
             className="underline hover:text-success duration-200 transition-colors"
           >
             Next.js
@@ -42,6 +43,7 @@ function Intro() {
           This blog is hosted on the Vercel cloud platform {" "}
           <a
             href="https://vercel.com/"
+            target="new"
             className="underline hover:text-success duration-200 transition-colors"
           >
             Vercel Hosting
