@@ -21,18 +21,21 @@ function Footer() {
           <h3 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Built with Next.js.
           </h3>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+          <div className="flex flex-col justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://nextjs.org/docs"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Read Next.js Documentation
             </a>
+          </div>
+          <div className="flex flex-col justify-center items-center lg:pl-4 lg:w-1/2">
+            This project build can be cloned from
             <a
               href={`https://github.com/web-warrior/contentfulblogdemo`}
               className="mx-3 font-bold hover:underline"
             >
-              Project build can be cloned from Jenny McClaine's GitHub
+              Jenny McClaine's GitHub repo
             </a>
           </div>
         </div>
