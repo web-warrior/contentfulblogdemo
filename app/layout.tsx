@@ -29,10 +29,10 @@ function Footer() {
               Read Documentation
             </a>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href={`https://github.com/web-warrior/contentfulblogdemo`}
               className="mx-3 font-bold hover:underline"
             >
-              View on GitHub
+              View on Jenny McClaine's GitHub
             </a>
           </div>
         </div>
