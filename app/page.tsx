@@ -14,7 +14,7 @@ function Intro() {
     <div>
       <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
         <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-          Jenny McClaine's Contentful Blog Demo.
+          Jenny McClaine's Vercel Hosted Contentful Blog Demo.
         </h1>
         <h2 className="text-left text-lg mt-5 md:pl-8">
           A statically generated blog example ("statically generated blog" pages are precompiled vs. being compiled on the fly. Precompiled page load faster in the browser and should be used whenever possible for optimized performance and less server side resource overhead)
