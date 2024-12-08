@@ -16,7 +16,7 @@ function Intro() {
         <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
           Jenny McClaine's Contentful Blog Demo.
         </h1>
-        <h2 className="text-center md:text-left text-lg mt-5 md:pl-8">
+        <h2 className="text-center sm:text-left text-lg mt-5 md:pl-8">
           A statically generated blog example ("statically generated blog" pages are precompiled vs. being compiled on the fly. Precompiled page load faster in the browser and should be used whenever possible for optimized performance and less server side resource overhead)
         </h2>
       </section>
@@ -38,7 +38,7 @@ function Intro() {
           </a>
           .
         </h3>
-        <h3>
+        <h3 className="mt-8">
           This blog is hosted on the Vercel cloud platform {" "}
           <a
             href="https://vercel.com/"
