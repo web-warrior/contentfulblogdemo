@@ -27,3 +27,7 @@
     line-height: 1;
   }
 }
+
+.footer-h3 {
+  line-height: 1.25 !important;
+}
