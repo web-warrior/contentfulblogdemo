@@ -29,7 +29,7 @@ export default async function PostPage({
     <div className="container mx-auto px-5">
       <header className="mb-20 mt-8 text-2xl font-bold leading-tight tracking-tight md:text-3xl md:tracking-tighter">
         <Link href="/" className="hover:underline">
-          JM's V H C Blog
+          JM's V.H.C Blog
         </Link>
         .
       </header>
