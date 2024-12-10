@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 .bg-color-1 {
-  background-color: blue;
-  color: white;
+  background-color: #dbad6a;
+  color: #232128;
 }
 
 @media (max-width: 1023px) {
