@@ -2,7 +2,7 @@
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Contentful](https://www.contentful.com/) as the data source and is hosted via Vercel platform.
 
-# About this repot version of the Demo
+# About this repo version of the Demo
 This repo contains the customized version of my demo, and it will only run if you use the instructions in the "How to use" section and set up your own trial account for Vercel and Contentful.
 
 I didn't intend to pay for the Vercel hosting or a Contentful account onging so there is no live demo of this project. 
