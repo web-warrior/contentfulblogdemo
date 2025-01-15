@@ -5,21 +5,21 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 # About this repo version of the Demo
 This repo contains the customized version of my demo, and it will only run if you use the instructions in the "How to use" section and set up your own trial account for Vercel and Contentful.
 
-I didn't intend to pay for the Vercel hosting or a Contentful account onging so there is no live demo of this project. 
+I didn't intend to pay for the Vercel hosting or a Contentful account ongoing so there is no live demo of this project.
 
-I'm keeping this project for my own future reference because I found the instructions were about 95% of what was needed to get a demo running locally. I had to do a bunch of troubleshooting with the npm packages and setting up the access to the CMS was a little different to get it to connect, so it's possible others will run into those issues as well, and the "Deploy your own" link may or may not work for you if you try it because it didn't work form me back in Dec 2024. 
+I'm keeping this project for my own future reference because I found the instructions were about 95% of what was needed to get a demo running locally. I had to do a bunch of troubleshooting with the npm packages and setting up the access to the CMS was a little different to get it to connect, so it's possible others will run into those issues as well, and the "Deploy your own" link may or may not work for you if you try it because it didn't work form me back in Dec 2024.
 
-I'm keeping the original instructions from the original demo/repo for historical purposes, and I did not include my local config files in this repo because those values are only useful for the specfic instances that require a valid "space ID", and "access tokens" that get created with the trial accounts needed to run the demo. 
+I'm keeping the original instructions from the original demo/repo for historical purposes, and I did not include my local config files in this repo because those values are only useful for the specific instances that require a valid "space ID", and "access tokens" that get created with the trial accounts needed to run the demo.
 
 Once I have a new portfolio site up and running I'll post the static screen captures of the responsive mini blog site I created and post the URL here...
 
-## Original Demo 
+## Original Live Demo
 
 ### [https://app-router-contentful.vercel.app/](https://app-router-contentful.vercel.app/)
 
 ## Deploy your own
 
-Using the Deploy Button below, you'll deploy the Next.js project as well as connect it to your Contentful space using the Vercel Contentful Integration. (Note: this didn't initally work for me, I had to contact support and have them fix something that was broken)
+Using the Deploy Button below, you'll deploy the Next.js project as well as connect it to your Contentful space using the Vercel Contentful Integration. (Note: this didn't initially work for me, I had to contact support and have them fix something that was broken)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fcms-contentful&project-name=nextjs-contentful-blog&repository-name=nextjs-contentful-blog&demo-title=Next.js+Blog&demo-description=Static+blog+with+multiple+authors+using+Draft+Mode&demo-url=https%3A%2F%2Fnext-blog-contentful.vercel.app%2F&demo-image=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1625705016%2Ffront%2Fexamples%2FCleanShot_2021-07-07_at_19.43.15_2x.png&integration-ids=oac_aZtAZpDfT1lX3zrnWy7KT9VA&env=CONTENTFUL_PREVIEW_SECRET&envDescription=Any%20URL%20friendly%20value%20to%20secure%20Draft%20Mode)
 
