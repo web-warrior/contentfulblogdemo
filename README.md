@@ -5,7 +5,7 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 # About this repot version of the Demo
 This repo contains the customized version of my demo, and it will only run if you use the instructions in the "How to use" section and set up your own trial account for Vercel and Contentful.
 
-I did intend to pay for the Vercel hosting or a Contentful account onging so there is no live demo of this project. 
+I didn't intend to pay for the Vercel hosting or a Contentful account onging so there is no live demo of this project. 
 
 I'm keeping this project for my own future reference because I found the instructions were about 95% of what was needed to get a demo running locally. I had to do a bunch of troubleshooting with the npm packages and setting up the access to the CMS was a little different to get it to connect, so it's possible others will run into those issues as well, and the "Deploy your own" link may or may not work for you if you try it because it didn't work form me back in Dec 2024. 
 
